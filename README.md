@@ -22,9 +22,10 @@ Este projeto foi desenvolvido durante o evento NLW Journey da Rocketseat. O Plan
 
 
 
-# Link para o Projeto [![Acesse o Projeto Planner](https://img.shields.io/badge/Acesse_o_Projeto_Planner-B9FBC0?style=for-the-badge&logo=github&logoColor=white)](https://planner-wheat.vercel.app/)
+## Link para o Projeto [![Acesse o Projeto Planner](https://img.shields.io/badge/Acesse_o_Projeto_Planner-B9FBC0?style=for-the-badge&logo=github&logoColor=white)](https://planner-wheat.vercel.app/)
 
-![Imagem do Projeto](https://link-para-sua-imagem.com/planner.png)
+## Imagem do projeto
+![Imagem do Projeto](planner.png)
 
 ## Como Executar o Projeto
 
