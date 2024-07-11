@@ -20,6 +20,12 @@ Este projeto foi desenvolvido durante o evento NLW Journey da Rocketseat. O Plan
 ![Axios](https://img.shields.io/badge/Axios-5A29E3?style=for-the-badge&logo=axios&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
+
+
+# Link para o Projeto [![Acesse o Projeto Planner](https://img.shields.io/badge/Acesse_o_Projeto_Planner-B9FBC0?style=for-the-badge&logo=github&logoColor=white)](https://planner-wheat.vercel.app/)
+
+![Imagem do Projeto](https://link-para-sua-imagem.com/planner.png)
+
 ## Como Executar o Projeto
 
 1. **Clone o repositório:**
